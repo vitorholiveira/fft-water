@@ -1,0 +1,3 @@
+/home/vitor/ufrgs_2024/fotografia/tf/build/CMakeFiles/main.dir
+/home/vitor/ufrgs_2024/fotografia/tf/build/CMakeFiles/edit_cache.dir
+/home/vitor/ufrgs_2024/fotografia/tf/build/CMakeFiles/rebuild_cache.dir
