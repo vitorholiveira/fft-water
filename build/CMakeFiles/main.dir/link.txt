@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/main.dir/src/EBO.cpp.o CMakeFiles/main.dir/src/Ocean.cpp.o CMakeFiles/main.dir/src/Shader.cpp.o CMakeFiles/main.dir/src/VAO.cpp.o CMakeFiles/main.dir/src/VBO.cpp.o CMakeFiles/main.dir/src/glad.c.o CMakeFiles/main.dir/src/main.cpp.o -o bin/Linux/main  -lglfw3 -lrt -lm -ldl -lX11 -lpthread -lXrandr -lXinerama -lXxf86vm -lXcursor 
